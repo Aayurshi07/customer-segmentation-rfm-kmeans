@@ -54,3 +54,9 @@ highlighting a clear retention priority.
 
 ## 📁 Files
 - `customer_segmentation_rfm_kmeans.ipynb` — Full analysis notebook
+- ## 📊 Power BI Dashboard
+Built an interactive Power BI dashboard to visualize segment distribution 
+and key metrics (Total Revenue, Average Spend, Customer Count) with 
+click-to-filter functionality.
+
+![Power BI Dashboard](powerbi_dashboard.png)
